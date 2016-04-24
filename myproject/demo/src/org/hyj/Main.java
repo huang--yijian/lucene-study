@@ -9,7 +9,7 @@ import org.apache.lucene.demo.SearchFiles;
 public class Main {
     public static void main(String[] args) throws Exception {
         // indexFiles("d:\\HyjPersonalData\\LuceneStudy\\lucene-5.5.0-src\\core\\src\\");
-        search();
+        // search();
     }
 
     private static void indexFiles(String dir) {
