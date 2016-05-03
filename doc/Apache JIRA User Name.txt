@@ -1,0 +1,7 @@
+Apache JIRA User Name: Huang Yijian
+
+Newbie Issues:
+(project=LUCENE) AND (status=OPEN OR status=REOPENED) AND labels=newdev
+
+All Issues of Lucene core
+https://issues.apache.org/jira/browse/LUCENE/?selectedTab=com.atlassian.jira.jira-projects-plugin:issues-panel
